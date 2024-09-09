@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-320100?style=flat-square&logo=adobeillustrator&logoColor=white" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-440235?style=flat-square&logo=adobexd&logoColor=white" />
   <img alt="Adobe AfterEffects" src="https://img.shields.io/badge/-Adobe%20After%20Effects-080860?style=flat-square&logo=adobeaftereffects&logoColor=white" />
-  <img alt="Adobe PremierPro" src="https://img.shields.io/badge/-Adobe%20Premier%20Pro-080850?style=flat-square&logo=adobepremierepro&logoColor=white" />
+  <img alt="Adobe PremierPro" src="https://img.shields.io/badge/-Adobe%20Premier%20Pro-9c9cff?style=flat-square&logo=adobepremierepro&logoColor=080850" />
 </p>
   
 
