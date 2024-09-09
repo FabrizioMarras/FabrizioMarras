@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-1a60e6?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-2b6cd6?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-ffffff?style=flat-square&logo=mongodb&logoColor=13aa52" />
   <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-31648c?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="vercel" src="https://img.shields.io/badge/-Vercel-ffffff?style=flat-square&logo=vercel&logoColor=black" />
   <img alt="digital ocean" src="https://img.shields.io/badge/-Digital%20Ocean-007cf7?style=flat-square&logo=digitalocean&logoColor=white" />
