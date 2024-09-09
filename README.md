@@ -8,11 +8,11 @@ I hold a MSc in Chemistry from the University of Sassari (2004) and a PhD in Che
 I have a strong background in IT transformation, project management, and a drive in continuous learning. 
 
 <a href="https://fabriziomarras.com" target="_blank" sttyle="text-decoration:none">
-  <img alt="personal portfolio" src="./images/logo.png" style="width: 20px; height: 20px;"/>
+  <img alt="personal portfolio" src="./images/logo.png" style="margin-left: 10px; width: 20px; height: 20px;"/>
   <img alt="portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square" />
 </a>
 <p><a href="mailto:fmarras79@gmail.com" target="_blank">
-  <img alt="personal email" src="https://img.shields.io/badge/-My%20Email-000000?style=flat-square&logo=gmail&logoColor=217ec3" />
+  <img alt="personal email" src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=217ec3" />
 </a></p>
 
 ## Tech Stack
