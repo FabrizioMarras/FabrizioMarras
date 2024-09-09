@@ -53,6 +53,8 @@ https://github.com/simple-icons/simple-icons/blob/master/slugs.md
   <img alt="Adobe AfterEffects" src="https://img.shields.io/badge/-Adobe%20After%20Effects-9c9cff?style=flat-square&logo=adobeaftereffects&logoColor=080860" />
   <img alt="Adobe PremierPro" src="https://img.shields.io/badge/-Adobe%20Premier%20Pro-9c9cff?style=flat-square&logo=adobepremierepro&logoColor=080850" />
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-255483?style=flat-square&logo=blender&logoColor=e27204" />
+  <img alt="Cinema 4D" src="https://img.shields.io/badge/-Cinema%204D-1d276f?style=flat-square&logo=blender&logoColor=ffffff" />
+  <img alt="Maya" src="https://img.shields.io/badge/-Autodesk%20Maya-000000?style=flat-square&logo=blender&logoColor=0a7a77" />
 </p>
 
 ## My GitHub contributions
