@@ -14,27 +14,6 @@ I have a strong background in IT transformation, project management, and a drive
   <img alt="personal email" src="https://img.shields.io/badge/-My%20Email-000000?style=flat-square&logo=gmail&logoColor=217ec3" />
 </a>
 
-## My GitHub contributions
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FabrizioMarras&theme=dark&ring=217ec3&file=fb4362&currStreakNum=217ec3&currStreakLabel=217ec3&hide_border=true)](https://git.io/streak-stats)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FabrizioMarras&hide_border=true&show_icons=true&bg_color=151515&title_color=ffffff&icon_color=217ec3&text_bold=false&text_color=9e9e9e)
-
-<!--
-**FabrizioMarras/FabrizioMarras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 ## Tech Stack
 <!--
 Link for logos of Tech Stack:
@@ -73,7 +52,28 @@ https://github.com/simple-icons/simple-icons/blob/master/slugs.md
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff67f7?style=flat-square&logo=adobexd&logoColor=440235" />
   <img alt="Adobe AfterEffects" src="https://img.shields.io/badge/-Adobe%20After%20Effects-9c9cff?style=flat-square&logo=adobeaftereffects&logoColor=080860" />
   <img alt="Adobe PremierPro" src="https://img.shields.io/badge/-Adobe%20Premier%20Pro-9c9cff?style=flat-square&logo=adobepremierepro&logoColor=080850" />
+  <img alt="Blender" src="https://img.shields.io/badge/-Blender-255483?style=flat-square&logo=blender&logoColor=e27204" />
 </p>
-  
 
+## My GitHub contributions
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FabrizioMarras&theme=dark&ring=217ec3&file=fb4362&currStreakNum=217ec3&currStreakLabel=217ec3&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FabrizioMarras&hide_border=true&show_icons=true&bg_color=151515&title_color=ffffff&icon_color=217ec3&text_bold=false&text_color=9e9e9e)
+
+<!--
+**FabrizioMarras/FabrizioMarras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
 ![](https://komarev.com/ghpvc/?username=FabrizioMarras&color=blueviolet)
