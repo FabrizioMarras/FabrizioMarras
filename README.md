@@ -42,8 +42,8 @@ Here are some ideas to get you started:
   <img alt="GCP" src="https://img.shields.io/badge/-GCP-e24134?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 <p>
-  <img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-d31e24?style=flat-square&logo=adobecreativecloud&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-011d34?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-ffffff?style=flat-square&logo=adobecreativecloud&logoColor=d31e24" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-3aabff?style=flat-square&logo=adobephotoshop&logoColor=011d34" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-ff9e18?style=flat-square&logo=adobeillustrator&logoColor=320100" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff67f7?style=flat-square&logo=adobexd&logoColor=440235" />
   <img alt="Adobe AfterEffects" src="https://img.shields.io/badge/-Adobe%20After%20Effects-9c9cff?style=flat-square&logo=adobeaftereffects&logoColor=080860" />
