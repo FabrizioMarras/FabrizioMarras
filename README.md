@@ -37,13 +37,17 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-31648c?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="vercel" src="https://img.shields.io/badge/-Vercel-222222?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="digital ocean" src="https://img.shields.io/badge/-Digital Ocean-007cf7?style=flat-square&logo=digitalocean&logoColor=white" />
+  <img alt="digital ocean" src="https://img.shields.io/badge/-Digital%20Ocean-007cf7?style=flat-square&logo=digitalocean&logoColor=white" />
   <img alt="aws" src="https://img.shields.io/badge/-AWS-f79400?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img alt="GCP" src="https://img.shields.io/badge/-GCP-e24134?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 <p>
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
+  <img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/-Adobe%20Creative%20Cloud-d31e24?style=flat-square&logo=adobecreativecloud&logoColor=white" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-011d34?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-320100?style=flat-square&logo=adobeillustrator&logoColor=white" />
+  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-440235?style=flat-square&logo=adobexd&logoColor=white" />
+  <img alt="Adobe AfterEffects" src="https://img.shields.io/badge/-Adobe%20After%20Effects-080860?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+  <img alt="Adobe PremierPro" src="https://img.shields.io/badge/-Adobe%20Premier%20Pro-080850?style=flat-square&logo=adobepremierepro&logoColor=white" />
 </p>
   
 
