@@ -1,5 +1,3 @@
-# Fabrizio Marras (PhD)
-
 <a href="https://fabriziomarras.com" target="_blank" sttyle="text-decoration:none">
   <img alt="personal portfolio" src="./images/logo.png" style="width: 20px; height: 20px;"/>
   <img alt="portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square" />
@@ -9,6 +7,8 @@
 <p><a href="mailto:fmarras79@gmail.com" target="_blank">
   <img alt="personal email" src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=217ec3" />
 </a></p>
+
+# Fabrizio Marras (PhD)
 
 <!--
 Link for logos of Tech Stack:
