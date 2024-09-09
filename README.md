@@ -2,11 +2,11 @@
 ## Contacts
 
 <p><a href="https://fabriziomarras.com" target="_blank">
-  <img alt="personal portfolio" src="https://img.shields.io/badge/-portfolio-000000?style=flat-square&logo=circle&logoColor=6f42c1" />
+  <img alt="personal portfolio" src="https://img.shields.io/badge/-My%20Portfolio-000000?style=flat-square&logo=circle&logoColor=217ec3" />
 </a></p>
 
 <p><a href="mailto:fmarras79@gmail.com" target="_blank">
-  <img alt="personal email" src="https://img.shields.io/badge/-email-000000?style=flat-square&logo=gmail&logoColor=6f42c1" />
+  <img alt="personal email" src="https://img.shields.io/badge/-My%20Email-000000?style=flat-square&logo=gmail&logoColor=217ec3" />
 </a></p>
 
 <!--
