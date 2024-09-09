@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img alt="threejs" src="https://img.shields.io/badge/-ThreeJS-222222?style=flat-square&logo=threedotjs&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-45b8d8?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-662C91?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Remix" src="https://img.shields.io/badge/-Remix-222222?style=flat-square&logo=remix&logoColor=white" />
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-f73c01?style=flat-square&logo=svelte&logoColor=white" />
   
@@ -36,6 +36,8 @@ Here are some ideas to get you started:
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-2b6cd6?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-31648c?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="vercel" src="https://img.shields.io/badge/-Vercel-222222?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="digital ocean" src="https://img.shields.io/badge/-Digital Ocean-007cf7?style=flat-square&logo=digitalocean&logoColor=white" />
   <img alt="aws" src="https://img.shields.io/badge/-AWS-f79400?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img alt="GCP" src="https://img.shields.io/badge/-GCP-e24134?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
