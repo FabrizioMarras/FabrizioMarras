@@ -1,12 +1,5 @@
 # Fabrizio Marras (PhD)
 
-## Who am I?
-
-I am an Italian professional, living in the Netherlands. 
-I hold a MSc in Chemistry from the University of Sassari (2004) and a PhD in Chemistry from the University of Amsterdam (2010).
-
-I have a strong background in IT transformation, project management, and a drive in continuous learning. 
-
 <a href="https://fabriziomarras.com" target="_blank" sttyle="text-decoration:none">
   <img alt="personal portfolio" src="./images/logo.png" style="width: 20px; height: 20px;"/>
   <img alt="portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square" />
@@ -15,7 +8,6 @@ I have a strong background in IT transformation, project management, and a drive
   <img alt="personal email" src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=217ec3" />
 </a></p>
 
-## Tech Stack
 <!--
 Link for logos of Tech Stack:
 https://github.com/simple-icons/simple-icons/blob/master/slugs.md
@@ -57,6 +49,12 @@ https://github.com/simple-icons/simple-icons/blob/master/slugs.md
   <img alt="Cinema 4D" src="https://img.shields.io/badge/-Cinema%204D-1d276f?style=flat-square&logo=cinema4d&logoColor=ffffff" />
   <img alt="Maya" src="https://img.shields.io/badge/-Autodesk%20Maya-0a7a77?style=flat-square&logo=autodeskmaya&logoColor=ffffff" />
 </p>
+
+
+I am an Italian professional, living in the Netherlands. 
+I hold a MSc in Chemistry from the University of Sassari (2004) and a PhD in Chemistry from the University of Amsterdam (2010).
+
+I have a strong background in IT transformation, project management, and a drive in continuous learning. 
 
 ## My GitHub contributions
 
