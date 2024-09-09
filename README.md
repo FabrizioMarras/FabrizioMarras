@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img alt="threejs" src="https://img.shields.io/badge/-ThreeJS-222222?style=flat-square&logo=threedotjs&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-662C91?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-222222?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Remix" src="https://img.shields.io/badge/-Remix-222222?style=flat-square&logo=remix&logoColor=white" />
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-f73c01?style=flat-square&logo=svelte&logoColor=white" />
   
