@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-31648c?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="aws" src="https://img.shields.io/badge/-AWS-f79400?style=flat-square&logo=amazonwebservices&logoColor=black" />
+  <img alt="aws" src="https://img.shields.io/badge/-AWS-f79400?style=flat-square&logo=amazonwebservices&logoColor=black" />
   <img alt="GCP" src="https://img.shields.io/badge/-GCP-e24134?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 <p>
