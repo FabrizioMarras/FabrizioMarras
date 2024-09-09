@@ -1,13 +1,13 @@
 # Hi there 👋
 ## My Portfolio
 
-<a href="https://fabriziomarras.com" target="_blank">
-  <img alt="personal portfolio" src="https://img.shields.io/badge/-fabriziomarras.com-000000?style=flat-square&logo=chatbot&logoColor=6f42c1" />
-</a>
+<li><a href="https://fabriziomarras.com" target="_blank">
+  <img alt="personal portfolio" src="https://img.shields.io/badge/-fabriziomarras.com-000000?style=flat-square&logo=checkmk&logoColor=6f42c1" />
+</a></li>
 
-<a href="mailto:fmarras79@gmail.com" target="_blank">
+<li><a href="mailto:fmarras79@gmail.com" target="_blank">
   <img alt="personal email" src="https://img.shields.io/badge/-email-000000?style=flat-square&logo=gmail&logoColor=6f42c1" />
-</a>
+</a></li>
 
 <!--
 **FabrizioMarras/FabrizioMarras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
