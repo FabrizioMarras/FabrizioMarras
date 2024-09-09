@@ -1,7 +1,9 @@
 # Hi there 👋
 ## My Portfolio
 
-<a href="https://fabriziomarras.com">fabriziomarras.com</a>
+<a href="https://fabriziomarras.com">
+  <img alt="personal portfolio" src="https://img.shields.io/badge/-fabriziomarras.com-000000?style=flat-square&logo=chatbot&logoColor=6f42c1" />
+</a>
 
 <!--
 **FabrizioMarras/FabrizioMarras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
