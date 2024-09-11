@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=FabrizioMarras&color=blueviolet)
 
-<p><a href="https://fabriziomarras.com" target="_blank" style="text-decoration:none">
+<p><a href="https://fabriziomarras.com" target="_blank" style="text-decoration:none !important">
   <img alt="personal portfolio" src="./images/logo.png" style="width: 18px; height: 18px;"/>
   <img alt="portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square" />
 </a>
