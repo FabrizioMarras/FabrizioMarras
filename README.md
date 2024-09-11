@@ -1,5 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=FabrizioMarras&color=blueviolet)
 
+<style>
+  [data-a11y-link-underlines=true] .markdown-body a {
+    text-decoration:none !important;
+  }
+</style>
 <p><a href="https://fabriziomarras.com" target="_blank" style="text-decoration:none !important">
   <img alt="personal portfolio" src="./images/logo.png" style="width: 18px; height: 18px;"/>
   <img alt="portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square" />
