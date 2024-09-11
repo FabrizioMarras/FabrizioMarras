@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=FabrizioMarras&color=blueviolet)
 
 <p><a href="https://fabriziomarras.com" target="_blank" sttyle="text-decoration:none">
-  <img alt="personal portfolio" src="./images/logo.png" style="width: 16px; height: 16px;"/>
+  <img alt="personal portfolio" src="./images/logo.png" style="width: 18px; height: 18px;"/>
   <img alt="portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square" />
 </a>
 <a href="mailto:fmarras79@gmail.com" target="_blank">
