@@ -12,7 +12,8 @@
 # Fabrizio Marras (PhD)
 
 I am an Italian professional, living in the Netherlands. 
-I hold a PhD in Chemistry from the University of Amsterdam. I have a strong background in IT, software/web/app development, project management, (graphic) design, animation and a drive for learning and growth.
+I hold a PhD in Chemistry from the University of Amsterdam. 
+I am experienced in software development, product and project management, with a strong background in design, graphics, animation and a drive for learning.
 
 ## My skills
 <!--
