@@ -5,6 +5,9 @@
   <img alt="personal portfolio" src="./images/logo.png" style="width: 18px; height: 18px;"/>
   <img alt="portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square" />
 </a>
+
+[My Portfolio](https://fabriziomarras.com)
+
 <a href="mailto:fmarras79@gmail.com" target="_blank">
   <img alt="personal email" src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=217ec3" />
 </a>
