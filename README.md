@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=FabrizioMarras&color=blueviolet)
 
+# 
 
 <p>
 <a href="https://fabriziomarras.com" target="_blank"><img alt="personal portfolio" src="./images/logo.png" style="width: 18px; height: 18px;"/></a>
@@ -12,8 +13,6 @@
   <img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-0d1116?style=flat-square&logo=linkedin&logoColor=007ab5" />
 </a>
 </p>
-
-# 
 
 # Fabrizio Marras (PhD)
 
