@@ -2,17 +2,13 @@
 
 # 
 
-<p>
+
 <a href="https://fabriziomarras.com" target="_blank"><img alt="personal portfolio" src="./images/logo.png" style="width: 18px; height: 18px;"/></a>
 <a href="https://fabriziomarras.com" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/-Portfolio-0d1116?style=flat-square" /></a>
 
-<a href="mailto:fmarras79@gmail.com" target="_blank">
-  <img alt="personal email" src="https://img.shields.io/badge/-Email-0d1116?style=flat-square&logo=gmail&logoColor=ea4336" />
-</a>
-<a href="https://www.linkedin.com/in/fabriziomarras/" target="_blank">
-  <img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-0d1116?style=flat-square&logo=linkedin&logoColor=007ab5" />
-</a>
-</p>
+<a href="mailto:fmarras79@gmail.com" target="_blank"><img alt="personal email" src="https://img.shields.io/badge/-Email-0d1116?style=flat-square&logo=gmail&logoColor=ea4336" /></a>
+<a href="https://www.linkedin.com/in/fabriziomarras/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-0d1116?style=flat-square&logo=linkedin&logoColor=007ab5" /></a>
+
 
 # Fabrizio Marras (PhD)
 
