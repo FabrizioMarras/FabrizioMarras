@@ -16,6 +16,12 @@
 
 # Fabrizio Marras (PhD)
 
+I am an Italian professional, living in the Netherlands. 
+I hold a MSc in Chemistry from the University of Sassari (2004) and a PhD in Chemistry from the University of Amsterdam (2010).
+
+I have a strong background in IT, software/web/app development, project management, (graphic) design, animation and a drive in continuous learning.
+
+## My skills
 <!--
 Link for logos of Tech Stack:
 https://github.com/simple-icons/simple-icons/blob/master/slugs.md
@@ -59,10 +65,7 @@ https://github.com/simple-icons/simple-icons/blob/master/slugs.md
 </p>
 
 
-I am an Italian professional, living in the Netherlands. 
-I hold a MSc in Chemistry from the University of Sassari (2004) and a PhD in Chemistry from the University of Amsterdam (2010).
-
-I have a strong background in IT transformation, project management, and a drive in continuous learning. 
+ 
 
 ## My GitHub contributions
 
