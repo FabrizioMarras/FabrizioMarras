@@ -60,9 +60,9 @@ I have a strong background in IT transformation, project management, and a drive
 
 ## My GitHub contributions
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FabrizioMarras&theme=dark&hide_border=true&border_radius=5&mode=weekly&card_width=600&card_height=200&ring=6F42C1&fire=217EC3&currStreakLabel=217EC3&sideNums=217EC3&currStreakNum=217EC3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FabrizioMarras&theme=dark&hide_border=true&border_radius=5&mode=weekly&card_width=450&card_height=200&ring=6F42C1&fire=217EC3&currStreakLabel=217EC3&sideNums=217EC3&currStreakNum=217EC3)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FabrizioMarras&card_width=600&card_height=200&hide_border=true&show_icons=true&bg_color=151515&hide_title=true&icon_color=217ec3&text_bold=false&text_color=9e9e9e&ring_color=217ec3)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FabrizioMarras&card_width=450&card_height=200&hide_border=true&show_icons=true&bg_color=151515&hide_title=true&icon_color=217ec3&text_bold=false&text_color=9e9e9e&ring_color=217ec3)
 
 <!--
 **FabrizioMarras/FabrizioMarras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
