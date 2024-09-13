@@ -5,7 +5,7 @@
 <p>
 <a href="https://fabriziomarras.com" target="_blank"><img alt="Personal Website" src="./images/logo.png" style="width: 18px; height: 18px;"/></a>
 <a href="https://fabriziomarras.com" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/-Personal%20Website-0d1116?style=flat-square" /></a>
-<a href="mailto:fmarras79@gmail.com" target="_blank"><img alt="Personal Email" src="https://img.shields.io/badge/-Personal%20Email-0d1116?style=flat-square&logo=gmail&logoColor=ea4336" /></a>
+<a href="mailto:fmarras79@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-0d1116?style=flat-square&logo=gmail&logoColor=ea4336" /></a>
 <a href="https://www.linkedin.com/in/fabriziomarras/" target="_blank"><img alt="Linkedin Account" src="https://img.shields.io/badge/-Linkedin%20Account-0d1116?style=flat-square&logo=linkedin&logoColor=007ab5" /></a>
 </p>
 
