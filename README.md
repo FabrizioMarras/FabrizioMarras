@@ -29,6 +29,8 @@ https://github.com/simple-icons/simple-icons/blob/master/slugs.md
   <img alt="Python" src="https://img.shields.io/badge/-Python-326592?style=flat-square&logo=python&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-373737?style=flat-square&logo=express&logoColor=white" />
+</p>
+<p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="threejs" src="https://img.shields.io/badge/-ThreeJS-222222?style=flat-square&logo=threedotjs&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
@@ -36,7 +38,8 @@ https://github.com/simple-icons/simple-icons/blob/master/slugs.md
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-222222?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Remix" src="https://img.shields.io/badge/-Remix-222222?style=flat-square&logo=remix&logoColor=white" />
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-f73c01?style=flat-square&logo=svelte&logoColor=white" />
-  
+</p>
+<p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-1a60e6?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-2b6cd6?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-ffffff?style=flat-square&logo=mongodb&logoColor=13aa52" />
@@ -53,6 +56,8 @@ https://github.com/simple-icons/simple-icons/blob/master/slugs.md
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff67f7?style=flat-square&logo=adobexd&logoColor=440235" />
   <img alt="Adobe AfterEffects" src="https://img.shields.io/badge/-Adobe%20After%20Effects-9c9cff?style=flat-square&logo=adobeaftereffects&logoColor=080860" />
   <img alt="Adobe PremierPro" src="https://img.shields.io/badge/-Adobe%20Premier%20Pro-9c9cff?style=flat-square&logo=adobepremierepro&logoColor=080850" />
+</p>
+<p>
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-255483?style=flat-square&logo=blender&logoColor=e27204" />
   <img alt="Cinema 4D" src="https://img.shields.io/badge/-Cinema%204D-1d276f?style=flat-square&logo=cinema4d&logoColor=ffffff" />
   <img alt="Maya" src="https://img.shields.io/badge/-Autodesk%20Maya-0a7a77?style=flat-square&logo=autodeskmaya&logoColor=ffffff" />
