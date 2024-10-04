@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=FabrizioMarras&color=blueviolet)
 
 # 
-![GitHub Repo Count](https://img.shields.io/github/search/FabrizioMarras/repo?label=Repositories&logo=github)
+
 
 #
 
