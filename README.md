@@ -2,7 +2,6 @@
 
 <!-- repo-badge -->
 ![Public Repositories](https://img.shields.io/badge/Public_Repos-31-brightgreen)
-![Public Repositories](https://img.shields.io/badge/Public_Repos-31-brightgreen)
 
 #
 
