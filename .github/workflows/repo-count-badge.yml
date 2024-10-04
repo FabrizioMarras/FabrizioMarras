@@ -23,7 +23,7 @@ jobs:
       run: |
         badge_url="https://img.shields.io/badge/Public_Repos-${{ steps.get_repo_count.outputs.repo_count }}-brightgreen"
         # Replace the old badge with the new badge
-        sed -i "s|!\[Public Repositories\](https://img.shields.io/badge/Public_Repos-[0-9]*-brightgreen)|![Public Repositories]($badge_url)|" README.md
+        sed -i "s|!\[Public Repositories\](.*img.shields.io/badge/Public_Repos-[0-9]*-brightgreen)|![Public Repositories]($badge_url)|g" README.md
 
     - name: Commit changes
       run: |
