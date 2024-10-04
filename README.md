@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=FabrizioMarras&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=FabrizioMarras&color=217ec4)
 
 <!-- repo-badge -->
 ![Public Repositories](https://img.shields.io/badge/Public_Repos-31-6f42c1)
