@@ -22,8 +22,8 @@ jobs:
     - name: Update README with badge
       run: |
         badge_url="https://img.shields.io/badge/Public_Repos-${{ steps.get_repo_count.outputs.repo_count }}-brightgreen"
-        echo "![Public Repositories]($badge_url)" > repo_count_badge.md
-        sed -i '/<!-- repo-badge -->/r repo_count_badge.md' README.md
+        # Replace the old badge with the new badge
+        sed -i "s|!\[Public Repositories\](https://img.shields.io/badge/Public_Repos-[0-9]*-brightgreen)|![Public Repositories]($badge_url)|" README.md
 
     - name: Commit changes
       run: |
