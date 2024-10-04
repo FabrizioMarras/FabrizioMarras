@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=FabrizioMarras&color=blueviolet)
 
 # 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/{owner}/{repo}/CI?label=build)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/FabrizioMarras)
 
 #
 
