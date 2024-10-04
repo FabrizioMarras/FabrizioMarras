@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=FabrizioMarras&color=blueviolet)
 
 # 
+![GitHub Repo Count](https://img.shields.io/github/search/FabrizioMarras/repo?label=Repositories&logo=github)
+
+#
 
 <p>
 <a href="https://fabriziomarras.com" target="_blank"><img alt="Website" src="./images/logo.png" style="width: 18px; height: 18px;"/></a>
