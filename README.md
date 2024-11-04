@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=FabrizioMarras&color=217ec4)
 
 <!-- repo-badge -->
-![Public Repositories](https://img.shields.io/badge/Public_Repos-33-6f42c1)
+![Public Repositories](https://img.shields.io/badge/Public_Repos-34-6f42c1)
 
 #
 
