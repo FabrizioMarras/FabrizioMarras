@@ -66,4 +66,3 @@ I am experienced in AI, software development, product and project management, wi
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FabrizioMarras&theme=dark&hide_border=true&border_radius=5&mode=weekly&card_width=450&card_height=200&ring=6F42C1&fire=217EC3&currStreakLabel=217EC3&sideNums=217EC3&currStreakNum=217EC3)](https://git.io/streak-stats)
 
-[![Fabrizio's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=FabrizioMarras)](https://github.com/FabrizioMarras/github-readme-stats-fast)
