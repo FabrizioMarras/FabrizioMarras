@@ -16,7 +16,7 @@
 
 I am an Italian professional, living in the Netherlands. 
 I hold a PhD in Chemistry from the University of Amsterdam. 
-I am experienced in software development, product and project management, with a strong background in design, graphics, animation and a drive for learning.
+I am experienced in AI, software development, product and project management, with a strong background in design, graphics, animation and a drive for learning.
 
 ## My skills
 <!--
